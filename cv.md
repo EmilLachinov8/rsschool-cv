@@ -1,6 +1,3 @@
-### rsschool-cv
-******
-
 # Emil Lachinov
 ******
 
@@ -52,10 +49,13 @@ function duplicateCount(text) {
 
 # Education
 ******
-* Higher School of Economics
+- Higher School of Economics 
+
   *Bachelor's degree Law* 
   *2013-2018 years*
-* WebHeroSchool (online courses)
+  
+  
+- WebHeroSchool (online courses)
   *Frontend development: HTML, CSS, JS, React*
   *2019-2021 years*
 ******
