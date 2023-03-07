@@ -1,7 +1,7 @@
 # Emil Lachinov
 ******
 
-# Contacts
+## Contacts
 
 * Phone number: +79125985244
 * E-mail: lachinov_em@mail.ru
@@ -11,13 +11,13 @@
 
 ***
 
-# About me
+## About me
 
 Highly motivated front-end developer with a passion for creating complex and well-worked websites and web applications. I have experience in using technologies such as HTML, CSS, JavaScript, React.js, SCSS, Git, BEM, Gulp. I know how to layout adaptively and cross-browser, I also worked as a mentor in an online school for front-end development. The level of English intermediate - passed IELTS at the university for grade 6.
 
 ***
 
-# My skills
+## My skills
 
 * HTML
 * CSS
@@ -29,9 +29,9 @@ Highly motivated front-end developer with a passion for creating complex and wel
 
 ***
 
-# Code example
+## Code example
 
-### Counting duplicate
+#### Counting duplicate
 ```
 function duplicateCount(text) {
 	let textl = text.toLowerCase();
@@ -50,7 +50,7 @@ function duplicateCount(text) {
 ``` 
 ***
 
-# Education
+## Education
 
 - Higher School of Economics 
 
@@ -65,7 +65,7 @@ function duplicateCount(text) {
   
 ***
 
-# Work experience, projects
+## Work experience, projects
 
 * [Website Tesla](https://emillachinov8.github.io/tesla-emil.github.io/)
 * [ToDo app on React.js](https://todo-app-lachinovem.vercel.app/)
@@ -73,7 +73,7 @@ function duplicateCount(text) {
 
 ***
 
-# Languages
+## Languages
 * Tatar - native
 * Russian - native 
 * English - B1 (intermidiate)
