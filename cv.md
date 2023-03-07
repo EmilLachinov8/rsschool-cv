@@ -2,7 +2,7 @@
 ******
 
 # Contacts
-******
+
 * Phone number: +79125985244
 * E-mail: lachinov_em@mail.ru
 * Telegram: @Emil_lachinov
@@ -11,12 +11,12 @@
 ******
 
 # About me
-******
+
 Highly motivated front-end developer with a passion for creating complex and well-worked websites and web applications. I have experience in using technologies such as HTML, CSS, JavaScript, React.js, SCSS, Git, BEM, Gulp. I know how to layout adaptively and cross-browser, I also worked as a mentor in an online school for front-end development. The level of English intermediate - passed IELTS at the university for grade 6.
 ******
 
 # My skills
-******
+
 * HTML
 * CSS
 * JavaScript
@@ -27,7 +27,7 @@ Highly motivated front-end developer with a passion for creating complex and wel
 ******
 
 # Code example
-******
+
 ### Counting duplicate
 ```
 function duplicateCount(text) {
@@ -48,7 +48,7 @@ function duplicateCount(text) {
 ******
 
 # Education
-******
+
 - Higher School of Economics 
 
   *Bachelor's degree Law* 
@@ -56,6 +56,7 @@ function duplicateCount(text) {
   
   
 - WebHeroSchool (online courses)
+
   *Frontend development: HTML, CSS, JS, React*
   *2019-2021 years*
 ******
