@@ -8,11 +8,13 @@
 * Telegram: @Emil_lachinov
 * linkedin: [emil-lachinov](https://www.linkedin.com/in/emil-lachinov/)
 * github: [EmilLachinov8](https://github.com/EmilLachinov8)
+
 ******
 
 # About me
 
 Highly motivated front-end developer with a passion for creating complex and well-worked websites and web applications. I have experience in using technologies such as HTML, CSS, JavaScript, React.js, SCSS, Git, BEM, Gulp. I know how to layout adaptively and cross-browser, I also worked as a mentor in an online school for front-end development. The level of English intermediate - passed IELTS at the university for grade 6.
+
 ******
 
 # My skills
@@ -24,6 +26,7 @@ Highly motivated front-end developer with a passion for creating complex and wel
 * Git
 * BEM
 * Gulp
+
 ******
 
 # Code example
@@ -59,13 +62,15 @@ function duplicateCount(text) {
 
   *Frontend development: HTML, CSS, JS, React*
   *2019-2021 years*
+  
 ******
 
 # Work experience, projects
-******
+
 * [Website Tesla](https://emillachinov8.github.io/tesla-emil.github.io/)
 * [ToDo app on React.js](https://todo-app-lachinovem.vercel.app/)
 * [Card Game on JS](https://emillachinov8.github.io/JS-project/)
+
 ******
 
 # Languages
