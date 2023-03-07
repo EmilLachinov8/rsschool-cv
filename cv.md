@@ -50,13 +50,24 @@ function duplicateCount(text) {
 ``` 
 ******
 
+# Education
+******
+* Higher School of Economics
+  *Bachelor's degree Law* 
+  *2013-2018 years*
+* WebHeroSchool (online courses)
+  *Frontend development: HTML, CSS, JS, React*
+  *2019-2021 years*
+******
+
 # Work experience, projects
 ******
-* HTML
-* CSS
-* JavaScript
-* React
-* Git
-* BEM
-* Gulp
+* [Website Tesla](https://emillachinov8.github.io/tesla-emil.github.io/)
+* [ToDo app on React.js](https://todo-app-lachinovem.vercel.app/)
+* [Card Game on JS](https://emillachinov8.github.io/JS-project/)
 ******
+
+# Languages
+* Tatar - native
+* Russian - native 
+* English - B1 (intermidiate)
